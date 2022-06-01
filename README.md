@@ -1,2 +1,3 @@
 # TCC do curso Tecnico em informatica
- Sistema de controle de Clinica Veterinaria
+ Fiz esse projeto utilizando Java 8 e SQL
+ é um Sistema de controle de Clinica Veterinaria
